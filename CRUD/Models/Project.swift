@@ -133,6 +133,10 @@ class Lolo: Object {
     
 }
 
+
 class Kris: Object {
     
+}
+class BestClass: Object {
+
 }
