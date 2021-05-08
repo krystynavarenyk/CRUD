@@ -113,7 +113,7 @@ class Tag: Object {
 class UserGroup: Object {
     
     @objc dynamic var id: String = UUID().uuidString
-    @objc dynamic var name: String = ""
+    @objc dynamic var name: String = "smth new"
     
 }
 
@@ -138,6 +138,7 @@ class Kris: Object {
     
 }
 
+
 class BestClass: Object {
   @objc dynamic var bestVariable = 10
   
@@ -147,3 +148,4 @@ class BestClass: Object {
     }
   }
 }
+
