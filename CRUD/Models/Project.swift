@@ -149,3 +149,5 @@ class BestClass: Object {
   }
 }
 
+class SecondClass: Object {}
+
