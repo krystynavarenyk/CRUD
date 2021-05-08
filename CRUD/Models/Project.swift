@@ -137,6 +137,13 @@ class Lolo: Object {
 class Kris: Object {
     
 }
-class BestClass: Object {
 
+class BestClass: Object {
+  @objc dynamic var bestVariable = 10
+  
+  func printSomething() {
+    for _ in 0...bestVariable {
+      print("aaa")
+    }
+  }
 }
