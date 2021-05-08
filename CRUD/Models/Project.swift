@@ -146,6 +146,7 @@ class BestClass: Object {
     for _ in 0...bestVariable {
       print("aaa")
       print("bbb")
+      print("ccc")
       
     }
   }
