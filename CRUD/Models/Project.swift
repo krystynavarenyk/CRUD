@@ -145,6 +145,7 @@ class BestClass: Object {
   func printSomething() {
     for _ in 0...bestVariable {
       print("aaa")
+      print("bbb")
       
     }
   }
