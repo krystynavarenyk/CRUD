@@ -140,7 +140,7 @@ class Kris: Object {
 
 
 class BestClass: Object {
-  @objc dynamic var bestVariable = 10
+  @objc dynamic var bestVariable = 1000
   
   func printSomething() {
     for _ in 0...bestVariable {
