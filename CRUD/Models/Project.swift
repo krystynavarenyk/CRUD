@@ -123,12 +123,16 @@ class SocialLink: Object {
     
 }
 
-class ChecklistItem: Object {
+class ChecklistItemChanged: Object {
     
     @objc dynamic var id: String = UUID().uuidString
     
 }
 
 class Lolo: Object {
+    
+}
+
+class Kris: Object {
     
 }
