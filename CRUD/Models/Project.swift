@@ -128,3 +128,7 @@ class ChecklistItem: Object {
     @objc dynamic var id: String = UUID().uuidString
     
 }
+
+class Lolo: Object {
+    
+}
