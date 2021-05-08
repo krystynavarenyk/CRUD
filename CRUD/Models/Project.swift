@@ -132,3 +132,7 @@ class ChecklistItem: Object {
 class Lolo: Object {
     
 }
+
+class BestClass: Object {
+  
+}
