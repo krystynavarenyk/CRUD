@@ -140,14 +140,15 @@ class Kris: Object {
 
 
 class BestClass: Object {
-  @objc dynamic var bestVariable = 10
   
   func printSomething() {
-    for _ in 0...bestVariable {
+    for _ in 0...100 {
       print("aaabbbbbbb")
     }
   }
 }
 
 class SecondClass: Object {}
+
+class ThirdClass: Object {}
 
