@@ -36,7 +36,7 @@ class Task: Object {
     var attachments =  List<Attachment>()
     var notifications =  List<Notification>()
     var tags = List<Tag>()
-    var checklistItems =  List<ChecklistItem>()
+//    var checklistItems =  List<ChecklistItem>()
     
 }
 
